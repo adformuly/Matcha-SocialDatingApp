@@ -5,6 +5,16 @@
 
 ---
 
+
+##  Download APK
+
+[Download the latest APK (Matcha v1.0)](https://github.com/adformuly/Matcha-SocialDatingApp/releases/latest)
+
+
+---
+
+
+
 ## 🛠 Tech Stack
 - **Frontend:** React Native  
 - **Backend:** C# .NET  
