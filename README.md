@@ -10,7 +10,7 @@
 [![Watch on YouTube](https://img.shields.io/badge/Watch–YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=0zr1E7mesLk)
 
 ### One app for more than one purpose!
-![Home Screen](docs/images/home.png)
+![Home Screen](docs/images/Home.png)
 
 ### Customize your profile
-![Next Screen](docs/images/next.png)
+![Next Screen](docs/images/Next.png)
